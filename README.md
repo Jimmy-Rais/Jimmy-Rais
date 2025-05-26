@@ -19,18 +19,22 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on:  
+- 🔭 I’m currently working on:
+  
   Backend systems using *FastAPI* & *PostgreSQl*, and building chatbot solutions for businesses(customer support, sales assistance, and workflow automation).
 
-- 🌱 I’m currently learning:  
+- 🌱 I’m currently learning:
+  
   Frontend development using **React.js**, **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**
 
-- 👯 I’m looking to collaborate on:  
+- 👯 I’m looking to collaborate on:
+  
   - **Full stack web development projects**  
   - **Production-ready AI chatbots for businesses**  
   - **IoT-based solutions**
 
-- 💬 Ask me about:  
+- 💬 Ask me about:
+  
   Python backend development,FastAPI,PostgreSql,chatbots,RAG ,LangGraph,Microcontrollers(Esp32,Arduino,STM32)
 
 - 📫 How to reach me:  
