@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 I’m currently working on:  
-  Backend systems using **FastAPI* & *PostgreSQl* and chatbot solutions for businesses(customer support, sales assistance, and workflow automation).
+  Backend systems using *FastAPI* & *PostgreSQl*, and building chatbot solutions for businesses(customer support, sales assistance, and workflow automation).
 
 - 🌱 I’m currently learning:  
   Frontend development using **React.js**, **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**
