@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Rais Gachaba Jimmy
 
-🔧 Python Backend Developer | 💬 Building Chatbots & AI assistants | 🌐 IoT Developer
+🌐 IoT Developer| Python Backend Developer | 💬 Building Chatbots & AI assistants 
 
 ---
 
