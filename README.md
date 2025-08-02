@@ -1,65 +1,75 @@
-<!--
-**Jimmy-Rais/Jimmy-Rais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋 I'm Rais Gachaba Jimmy
 
-🌐 IoT Developer| Python Backend Developer | 💬 Building Chatbots & AI assistants 
+🌐 Industrial IoT Developer | Backend Developer | AI Integrator
 
 ---
 
 - 🔭 I’m currently working on:
-  
-  Backend systems using *FastAPI*,*PostgreSQl*,*Supabase* and building chatbot solutions for businesses(customer support, sales assistance, and workflow automation).
+  - Scalable **Industrial IoT** solutions
+  - Integrating **AI with embedded systems**
 
 - 🌱 I’m currently learning:
-  
-  Frontend development using **React.js**, **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**
+  - Advanced **FPGA and RTOS**
+  - **AWS IoT Core**, Grafana, MQTT
+  - **Yocto Project** for embedded Linux
 
 - 👯 I’m looking to collaborate on:
-  
-  - **Full stack web development projects**  
-  - **Production-ready AI chatbots for businesses**  
-  - **IoT-based solutions**
+  - **IoT-based smart energy projects**
+  - **Backend systems for device data**
+  - **Edge AI integrations**
 
 - 💬 Ask me about:
-  
-  Python backend development,FastAPI,PostgreSql,chatbots,RAG ,LangGraph,Microcontrollers(Esp32,Arduino,STM32)
+  - Industrial IoT systems
+  - Python backend development
+  - Embedded C/C++
+  - AI + Microcontrollers
 
 - 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/rais-gachaba-jimmy-833703258/)  
-  raisgachaba@gmail.com
+  [📩 Email](mailto:raisgachaba@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/rais-gachaba-jimmy-833703258/)
 
 ---
 
-Thanks for visiting my profile! I’m always open to collaborations—let’s connect if you’re working on exciting projects.
+### 🧠 Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+---
 
+### 🛠️ Tools & Technologies
 
+- **Microcontrollers**: ESP32, STM32, Arduino  
+- **IoT Platforms**: Firebase, AWS IoT Core  
+- **Backend**: FastAPI, Flask, Supabase  
+- **Databases**: PostgreSQL, Firebase Realtime DB  
+- **Cloud & Visualization**: Grafana, InfluxDB, MQTT  
+- **Hardware Tools**: KiCad, Logic Analyzers, Oscilloscopes  
+- **Embedded OS**: FreeRTOS, Embedded Linux (Yocto)
 
-<!--
-**Jimmy-Rais/Jimmy-Rais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔌 **HomeTronik** — Smart energy monitoring and control system [🏆 Finalist at YESIST12]  
+- 🤖 **ThinkArm / NeuroGrasp** — BCI-controlled bionic arm  
+- 📈 **KnowledgeMate** — AI-powered document & video understanding assistant  
+- 🛍️ **Yarn E-Store** — Full-stack platform for a clothing business  
+
+*(More coming soon…)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jimmy-Rais&show_icons=true&theme=default" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Rais&layout=compact&langs_count=8&theme=default" />
+</p>
+
+---
+
+Thanks for stopping by! Let’s build something impactful together 🚀
