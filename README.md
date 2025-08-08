@@ -10,6 +10,7 @@
 
 - 🌱 Learning:
   - Industrial protocols(ModBus)
+    
   -AWS  
 
 - 👯 Open to collaborate on:
