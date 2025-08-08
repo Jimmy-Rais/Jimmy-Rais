@@ -1,24 +1,24 @@
 ### Hi there 👋 I'm Rais Gachaba Jimmy
 
-🌐 Industrial IoT Developer | Wireless communications researcher
+🌐 Industrial IoT Developer | Wireless communication researcher
 
 ---
 
 - 🔭 Currently working on:
   - Industrial IoT systems
-  - AI & embedded integration
+  - AI integration
 
 - 🌱 Learning:
-  - Embedded Linux (Yocto), RTOS
+  - Industrial protocols,RTOS
   - AWS  
 
 - 👯 Open to collaborate on:
   - IoT solutions
   - Research collaboration on Wireless Communication systems
-  - Backend & AI Integration
+  - Backend & AI
   
 - 💬 Ask me about:
-  - Wireless Communication,IOT protocols & security ,Microcontrollers, Python backend, AI
+  - Wireless Communication(MTC & HTC),IOT protocols & security,AI
 
 - 📫 Reach me:
   [LinkedIn](https://www.linkedin.com/in/rais-gachaba-jimmy-833703258/)  
