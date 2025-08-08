@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rais Gachaba Jimmy
 
-🌐 Industrial IoT Developer |Wireless communications| Backend Developer & AI 
+🌐 Industrial IoT Developer | Wireless communications researcher
 
 ---
 
