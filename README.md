@@ -9,8 +9,8 @@
   - AI integration
 
 - 🌱 Learning:
-  - Industrial protocols,RTOS
-  - AWS  
+  - Industrial protocols(ModBus)
+  -AWS  
 
 - 👯 Open to collaborate on:
   - IoT solutions
