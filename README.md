@@ -10,7 +10,7 @@
 
 - 🌱 Learning:
   - Industrial protocols
-  -AWS  
+  - AWS  
 
 - 👯 Open to collaborate on:
   - IoT solutions
