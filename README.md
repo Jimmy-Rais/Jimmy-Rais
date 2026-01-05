@@ -14,7 +14,7 @@ My research interests focus on efficient and intelligent 6G networks, including:
 - RIS/STAR-RIS assisted wireless communications
 - Semantic communication frameworks
 - Integrated Sensing and Communication (ISAC)
-- Machine learning and deep learning for wireless system design
+- Machine learning and deep learning in wireless system design
 - Design of novel modulation schemes
 
 
@@ -47,7 +47,7 @@ My research interests focus on efficient and intelligent 6G networks, including:
 ---
 
 ### 🛠️ Tools & Technologies
-- NS-3,OpenAirInterface(OA1)
+- NS-3,OpenAirInterface(OAI)
 - GNU Radio
 - Grafana, Node-RED, InfluxDB,AWS IoT Core
 ---
